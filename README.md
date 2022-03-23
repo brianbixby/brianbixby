@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div >
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianbixby&show_icons=true&theme=github_dark&count_private=true&bg_color=FFFFFF00&hide_border=true" width="500" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianbixby&layout=compact&theme=github_dark&bg_color=FFFFFF00&hide_border=true" width="500" />
+  
+</div>
+
 <!--
 **brianbixby/brianbixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
